@@ -1,0 +1,1 @@
+//1st n 2 nd log(n)// use tree and 
